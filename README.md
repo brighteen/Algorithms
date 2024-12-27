@@ -1,2 +1,2 @@
 # Algorithms
-Pproblem Solving Notes
+Problem Solving Notes
